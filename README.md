@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimesha Gunawardana</h1>
-<h3 align="center">An Enthusiastic Senior Frontend Developer with 10+ years of experience.</h3>
+<p align="center">An enthusiastic Frontend Developer with 10+ years of experience in developing large-scale applications, leading projects, building complex business software from the ground up, developing high-traffic public websites, webshops, showcases and proofs-of-concept based on modern web technologies. In addition to that, I also have a strong knowledge of SEO.</p>
 
 - 🔭 I’m currently working on [Gapstars](https://gapstars.net/)
 
