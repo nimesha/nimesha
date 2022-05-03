@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+![Frontend Developer](https://nimesha.org/nimesha-banner.webp)
 <h1 align="center">Hi 👋, I'm Nimesha Gunawardana</h1>
 <p align="center">An enthusiastic Frontend Developer with 10+ years of experience in developing large-scale applications, leading projects, building complex business software from the ground up, developing high-traffic public websites, webshops, showcases and proofs-of-concept based on modern web technologies. In addition to that, I also have a strong knowledge of SEO.</p>
 
