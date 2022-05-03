@@ -1,3 +1,4 @@
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 <h1 align="center">Hi 👋, I'm Nimesha Gunawardana</h1>
 <p align="center">An enthusiastic Frontend Developer with 10+ years of experience in developing large-scale applications, leading projects, building complex business software from the ground up, developing high-traffic public websites, webshops, showcases and proofs-of-concept based on modern web technologies. In addition to that, I also have a strong knowledge of SEO.</p>
 
@@ -20,6 +21,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nimesha-gunawardana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nimesha-gunawardana/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/nimesha.chinthaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nimesha.chinthaka/" height="30" width="40" /></a>
 </p>
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 
