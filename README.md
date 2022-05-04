@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on [Gapstars](https://gapstars.net/)
 
-- 🤝 I collaborate following projects [![Twitter Badge](https://img.shields.io/badge/Eppointa-Eppointa.com-purple)](https://twitter.com/nimesha360)
+- 🤝 I collaborate following projects  [![Eppointa Badge](https://img.shields.io/badge/Eppointa-Eppointa.com-purple)](https://eppointa.com/) [![Resumoz Badge](https://img.shields.io/badge/Resumoz-resumoz.com-2DBFBA)](https://resumoz.com/)
+
 - 👯 I’m looking to collaborate on MERN stack projects
 
 - 📝 I regularly write articles on [https://nimesha.org/](https://nimesha.org/)
