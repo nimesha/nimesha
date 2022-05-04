@@ -2,9 +2,9 @@
 <h5>Hey there 👋</h5>
 <p>An enthusiastic Frontend Developer with 10+ years of experience in developing large-scale applications, leading projects, building complex business software from the ground up, developing high-traffic public websites, webshops, showcases and proofs-of-concept based on modern web technologies. In addition to that, I also have a strong knowledge of SEO.</p>
 
-- 🔭 I’m currently working on [Gapstars](https://gapstars.net/)
+- 🔭 I’m currently working at [Gapstars](https://gapstars.net/)
 
-- 🤝 I collaborate following projects  [![Eppointa Badge](https://img.shields.io/badge/Eppointa-Eppointa.com-purple)](https://eppointa.com/) [![Resumoz Badge](https://img.shields.io/badge/Resumoz-resumoz.com-2DBFBA)](https://resumoz.com/)
+- 🤝 I'm collaborating with following projects  [![Eppointa Badge](https://img.shields.io/badge/Eppointa-Eppointa.com-purple)](https://eppointa.com/) [![Resumoz Badge](https://img.shields.io/badge/Resumoz-resumoz.com-2DBFBA)](https://resumoz.com/)
 
 - 👯 I’m looking to collaborate on MERN stack projects
 
