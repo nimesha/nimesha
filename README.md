@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Gapstars](https://gapstars.net/)
 
-- 🤝 I'm collaborating with following projects  [![Eppointa Badge](https://img.shields.io/badge/Eppointa-Eppointa.com-purple)](https://eppointa.com/) [![Resumoz Badge](https://img.shields.io/badge/Resumoz-resumoz.com-2DBFBA)](https://resumoz.com/)
+- 🤝 I'm collaborating with following projects  [![Eppointa Badge](https://img.shields.io/badge/Eppointa-eppointa.com-purple)](https://eppointa.com/) [![Resumoz Badge](https://img.shields.io/badge/Resumoz-resumoz.com-2DBFBA)](https://resumoz.com/)
 
 - 👯 I’m looking to collaborate on MERN stack projects
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![Twitter Badge](https://img.shields.io/badge/-@nimesha360-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nimesha360)](https://twitter.com/nimesha360) [![Youtube Badge](https://img.shields.io/badge/web-nimesha.org-yellow)](https://nimesha.org/) [![Linkedin Badge](https://img.shields.io/badge/-nimesha--gunawardana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimesha-gunawardana/) [![Mail Badge](https://img.shields.io/badge/-@nimesha.chinthaka-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://fb.com/https://www.facebook.com/nimesha.chinthaka/) [![Mail Badge](https://img.shields.io/badge/-nimeshae@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nimeshae@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@nimesha360-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nimesha360)](https://twitter.com/nimesha360) [![Youtube Badge](https://img.shields.io/badge/web-nimesha.org-yellow)](https://nimesha.org/) [![Linkedin Badge](https://img.shields.io/badge/-nimesha--gunawardana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimesha-gunawardana/) [![Mail Badge](https://img.shields.io/badge/-nimesha.chinthaka-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://fb.com/https://www.facebook.com/nimesha.chinthaka/) [![Mail Badge](https://img.shields.io/badge/-nimeshae@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nimeshae@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 
